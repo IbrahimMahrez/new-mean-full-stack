@@ -5,6 +5,7 @@
   "scripts": {
    "run":"nodemon index.js"
   },
+  "bin":"./index.js",
   "keywords": [],
   "author": "",
   "license": "ISC",
