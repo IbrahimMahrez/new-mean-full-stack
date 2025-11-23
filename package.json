@@ -1,0 +1,16 @@
+{
+  "name": "new-mean-full-stack",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+   "run":"nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "nodemon": "^3.1.11"
+  }
+}
